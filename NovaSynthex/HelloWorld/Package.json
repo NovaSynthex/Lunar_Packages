@@ -1,0 +1,15 @@
+{
+    "Name"   : "HelloWorld",
+    "Desc"   : "Prints hello world",
+
+    "Author" : "NovaSynthex",
+    "UserID" : 880155886,
+
+    "Links"  : [
+        ["Documentation", "Roblox Docs", "https://create.roblox.com/docs"]
+    ],
+
+    "Versions" : {
+        "1.0.0" : ""
+    }
+}
